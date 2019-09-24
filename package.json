@@ -1,0 +1,14 @@
+{
+  "name": "testing-np-dont-use-me",
+  "version": "0.1.0",
+  "scripts": {
+    "pub": "np --no-yarn",
+    "build": "node build.js",
+    "clean": "rm built.yay",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "24.9.0",
+    "np": "5.1.0"
+  }
+}
