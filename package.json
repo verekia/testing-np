@@ -4,7 +4,7 @@
   "scripts": {
     "pub": "np",
     "build": "node build.js",
-    "clean": "rm built.yay",
+    "clean": "rm -f built.yay",
     "test": "jest",
     "prepublishOnly": "yarn clean && yarn build",
     "postpublish": "yarn clean"
