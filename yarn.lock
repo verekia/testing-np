@@ -404,10 +404,10 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@verekia/testing-np@0.1.3":
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/@verekia/testing-np/-/testing-np-0.1.3.tgz#9543d620fd20223c05d60e98b45ff45e310dc7f8"
-  integrity sha512-EDkJ1i2PgSffSqsJKW4giLx2JKW2n92IAVur9mH0JQCcwUoqwcWsjT3bDGzeBhQlRvxhcROhQ19CP4A3dwstHw==
+"@verekia/testing-np@0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@verekia/testing-np/-/testing-np-0.1.4.tgz#ccc669e8ce08270f9a37f55b5b01a00c846582a7"
+  integrity sha512-VGz2VxOC5Uysexr61vdsMA+sNF3nB+/pUrzemHrXgo8j+mj3pZ+lpFzZ/zU9W5iJbg4uaoh9+z9c5uSkU5Uq0g==
 
 abab@^2.0.0:
   version "2.0.1"
