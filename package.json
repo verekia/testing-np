@@ -2,7 +2,7 @@
   "name": "@verekia/testing-np",
   "version": "0.1.6",
   "scripts": {
-    "pub": "np --no-yarn",
+    "pub": "np",
     "build": "node build.js",
     "clean": "rm built.yay",
     "test": "jest",
