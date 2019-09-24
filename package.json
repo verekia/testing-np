@@ -10,7 +10,7 @@
     "postpublish": "yarn clean"
   },
   "devDependencies": {
-    "@verekia/testing-np": "0.1.5",
+    "@verekia/testing-np": "1.0.0",
     "jest": "24.9.0",
     "np": "5.1.0"
   }
