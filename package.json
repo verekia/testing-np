@@ -6,7 +6,7 @@
     "build": "node build.js",
     "clean": "rm built.yay",
     "test": "jest",
-    "prepublishOnly": "yarn build",
+    "prepublishOnly": "yarn clean && yarn build",
     "postpublish": "yarn clean"
   },
   "devDependencies": {
