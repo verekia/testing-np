@@ -8,6 +8,7 @@
     "test": "jest"
   },
   "devDependencies": {
+    "@verekia/testing-np": "0.1.3",
     "jest": "24.9.0",
     "np": "5.1.0"
   }
