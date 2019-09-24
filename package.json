@@ -6,10 +6,11 @@
     "build": "node build.js",
     "clean": "rm built.yay",
     "test": "jest",
-    "prepublishOnly": "yarn build"
+    "prepublishOnly": "yarn build",
+    "postpublish": "yarn clean"
   },
   "devDependencies": {
-    "@verekia/testing-np": "0.1.4",
+    "@verekia/testing-np": "0.1.5",
     "jest": "24.9.0",
     "np": "5.1.0"
   }
