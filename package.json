@@ -1,5 +1,5 @@
 {
-  "name": "testing-np-dont-use-me",
+  "name": "@verekia/testing-np",
   "version": "0.1.1",
   "scripts": {
     "pub": "np --no-yarn",
